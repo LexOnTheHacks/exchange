@@ -1,0 +1,303 @@
+name; score ;volume;coins;markets;liquidity;type
+Binance; 9.70 ;23287571727;319;1040;473;central
+Coinbase Pro; 8.90 ;5525455532;48;129;306;central
+Kraken; 8.60 ;2181937712;59;239;352;central
+Bitfinex; 8.40 ;2934950776;145;301;302;central
+Bithumb; 8.30 ;2397875074;130;135;201;central
+Huobi Global; 8.20 ;10487814120;294;846;388;central
+Bitstamp; 8.00 ;1913338763;13;42;224;central
+KuCoin; 7.90 ;668546240;251;519;252;central
+Binance.US; 7.70 ;419410201;54;107;240;central
+Coinone; 7.70 ;641335900;149;149;140;central
+bitFlyer; 7.60 ;704555118;5;14;117;central
+FTX; 7.60 ;684766002;151;302;177;central
+Bittrex; 7.50 ;305557631;316;609;180;central
+Poloniex; 7.50 ;354110414;157;286;154;central
+Gemini; 7.40 ;336072654;29;48;168;central
+OKEx; 7.20 ;5499363020;212;556;293;central
+Liquid; 7.20 ;718663295;78;148;138;central
+Coincheck; 6.90 ;386290379;2;1;34;central
+Zaif; 6.80 ;86651339;8;13;92;central
+Korbit; 6.60 ;75913021;27;28;68;central
+Gate.io; 6.50 ;612067080;335;612;235;central
+BitMax; 6.50 ;569676967;152;220;204;central
+itBit; 6.40 ;97690881;6;5;237;central
+eToroX; 6.40 ;620501446;19;23;120;central
+Crypto.com Exchange; 6.30 ;308199933;40;95;227;central
+Coinlist Pro; 6.00 ;6896504;12;15;124;central
+Huobi Korea; 6.00 ;145132488;236;580;271;central
+Luno; 5.80 ;89656971;14;27;132;central
+ProBit Exchange; 5.80 ;160174936;414;773;92;central
+EXMO; 5.80 ;109673561;63;180;122;central
+Upbit; 5.80 ;3534212380;159;237;185;central
+OKCoin; 5.80 ;109972070;24;30;143;central
+Bithumb Global; 5.70 ;234755707;204;275;66;central
+CoinDCX; 5.70 ;24599547;87;124;329;central
+Currency.com; 5.60 ;43029856;13;29;134;central
+WazirX; 5.50 ;56215237;110;165;84;central
+Indodax; 5.50 ;68882066;111;115;70;central
+Binance.KR; 5.40 ;20232069852;78;252;385;central
+BtcTurk | Pro; 5.30 ;729580215;16;42;154;central
+Bitbank; 5.30 ;600140215;8;13;189;central
+OKEx Korea; 5.20 ;9945804;102;216;235;central
+AAX; 5.10 ;381397586;31;78;176;central
+Bitvavo; 5.00 ;205489122;56;66;161;central
+NovaDAX; 4.90 ;231092045;29;88;136;central
+Paribu; 4.90 ;234864649;30;29;105;central
+CoinEx; 4.80 ;143493893;164;403;135;central
+Coinbit; 4.80 ;1398943515;17;33;56;central
+StormGain; 4.80 ;104373790;6;12;146;central
+Coinfloor; 4.70 ;9018055;3;2;34;central
+BitWell; 4.70 ;580161949;12;11;166;central
+Bitkub; 4.70 ;122936834;37;38;91;central
+CoinFLEX; 4.70 ;28128995;13;16;52;central
+B2BX; 4.70 ;49074003;18;33;235;central
+Coinsbit; 4.60 ;3380836096;59;185;282;central
+Huobi Indonesia; 4.60 ;864036;55;73;221;central
+CEX.IO; 4.60 ;79815805;39;123;107;central
+GOPAX; 4.60 ;78406621;69;97;77;central
+XT; 4.60 ;412074701;90;131;292;central
+ZebPay; 4.60 ;46823343;25;38;157;central
+Bitso; 4.60 ;41227820;14;25;127;central
+Thodex; 4.50 ;252838570;21;38;53;central
+DigiFinex; 4.50 ;2379505315;139;284;273;central
+HitBTC; 4.50 ;4510790655;395;869;252;central
+BTC Markets; 4.50 ;57963829;16;18;70;central
+Bitbns; 4.40 ;39286756;84;105;98;central
+Alterdice; 4.40 ;91580970;35;101;132;central
+Felixo; 4.40 ;26708288;23;34;142;central
+CoinZoom; 4.40 ;18630581;27;75;213;central
+Rekeningku.com; 4.40 ;15116653;43;42;233;central
+Mercado Bitcoin; 4.40 ;26276370;10;10;106;central
+MAX Exchange; 4.40 ;31663134;10;18;98;central
+Coindeal; 4.40 ;43942413;28;32;80;central
+Bitrue; 4.40 ;1065414313;91;204;293;central
+Bitfront; 4.40 ;1332958356;7;13;199;central
+MXC.COM; 4.40 ;1330053480;290;374;210;central
+Bitpanda Pro; 4.30 ;14946603;11;16;145;central
+ExMarkets; 4.30 ;253561821;39;69;87;central
+Independent Reserve; 4.30 ;36129080;24;54;69;central
+Paritex; 4.30 ;192638772;8;14;112;central
+IndoEx; 4.30 ;1406879774;50;197;403;central
+FOBLGATE; 4.30 ;55388782;24;24;28;central
+Hoo; 4.20 ;578242861;273;428;214;central
+WhiteBIT; 4.20 ;410396996;92;193;234;central
+Dex-Trade; 4.20 ;32974053;42;114;139;central
+LBank; 4.10 ;4788067815;80;150;222;central
+Coineal; 4.10 ;3363714601;25;37;199;central
+VinDAX; 4.10 ;357426483;167;346;192;central
+Zipmex; 4.10 ;7774554;19;77;165;central
+CoinJar; 4.10 ;52054237;15;42;112;central
+Coinzo; 4.10 ;18837168;8;15;69;central
+BW.com; 4.10 ;809068343;104;146;189;central
+Hotbit; 4.10 ;399294580;618;1158;128;central
+Cryptology; 4.10 ;9888714;11;26;83;central
+CoinMetro; 4.10 ;4976684;21;35;165;central
+TimeX; 4.10 ;35791888;11;18;62;central
+BitForex; 4.00 ;597372108;105;212;103;central
+The Rock Trading; 4.00 ;9141441;12;17;67;central
+Bilaxy; 4.00 ;259541640;375;429;181;central
+BigONE; 4.00 ;364390591;94;143;142;central
+CoinTiger; 4.00 ;183445984;155;236;300;central
+ZB.COM; 4.00 ;4171777009;81;136;247;central
+Decoin; 4.00 ;103961399;25;40;314;central
+Bitsonic; 4.00 ;18585778;76;81;29;central
+BKEX; 4.00 ;1379848944;146;163;164;central
+BITEXLIVE; 4.00 ;5685170;20;36;84;central
+Finexbox; 4.00 ;84564656;136;168;356;central
+Bitbuy; 4.00 ;10789792;8;14;35;central
+P2PB2B; 3.90 ;1178934174;92;223;138;central
+Bitci; 3.90 ;12114073;21;54;50;central
+PayBito; 3.90 ;435861229;17;52;296;central
+50x; 3.90 ;206327;20;47;35;central
+BitcoinTrade; 3.90 ;5677114;8;7;50;central
+Beaxy; 3.90 ;3544094;25;33;92;central
+Nominex; 3.90 ;52851447;23;59;332;central
+Globitex; 3.90 ;5213238;5;7;53;central
+COREDAX; 3.90 ;11025154;14;15;27;central
+CryptoMarket; 3.80 ;2834047;7;12;61;central
+Folgory; 3.80 ;671776139;90;236;609;central
+Kuna; 3.80 ;5284243;21;32;39;central
+Bitcoin.com Exchange; 3.80 ;4091317098;65;188;235;central
+GDAC; 3.80 ;5092624;34;34;37;central
+CoinMate; 3.80 ;927624;8;17;43;central
+Cat.Ex; 3.80 ;232195963;69;154;59;central
+BTC-Alpha; 3.80 ;982015259;60;83;79;central
+Crex24; 3.80 ;4518129;366;448;38;central
+NiceHash; 3.80 ;990271;16;18;116;central
+ATOMARS; 3.80 ;107644449;145;337;94;central
+ChainX; 3.80 ;62997215;30;31;18;central
+Virtuse Exchange; 3.70 ;14860680;11;25;98;central
+Lykke Exchange; 3.70 ;3669293;26;54;46;central
+OceanEx; 3.70 ;132745241;46;88;75;central
+Bibox; 3.70 ;681072651;129;268;248;central
+BitMart; 3.70 ;386324228;93;177;109;central
+CoinEgg; 3.70 ;222421316;52;64;36;central
+BitBay; 3.70 ;92182564;35;82;68;central
+Tokens.net; 3.70 ;7154386;27;39;21;central
+CoinBene; 3.70 ;6094733991;48;208;155;central
+ZBG; 3.70 ;955801954;46;74;187;central
+Cryptonex; 3.60 ;475967760;8;18;73;central
+KickEX; 3.60 ;5318203;8;14;16;central
+Tokenize Xchange; 3.60 ;45896146;17;44;128;central
+Bitvast; 3.60 ;258091234;9;14;226;central
+VELIC; 3.60 ;1735741;17;29;50;central
+CoinField; 3.60 ;70222255;27;75;63;central
+Hanbitco; 3.60 ;2169550;40;49;4;central
+BTCBOX; 3.60 ;21518357;2;1;11;central
+Dcoin; 3.60 ;973309546;71;84;43;central
+Prizmbit; 3.60 ;1915294;10;17;26;central
+Exrates; 3.60 ;64650764;54;110;77;central
+CROSS exchange; 3.50 ;1439780;29;43;46;central
+Coinut; 3.50 ;503696;11;28;90;central
+Narkasa; 3.50 ;756028;6;8;76;central
+TOKOK; 3.50 ;146455014;71;114;143;central
+Coinsuper; 3.50 ;90072641;36;61;35;central
+BitUBU; 3.50 ;66275580;29;79;139;central
+STEX; 3.50 ;48110089;212;279;47;central
+Coinall; 3.50 ;3529122;89;136;156;central
+Giottus; 3.50 ;1474701;34;50;19;central
+EXIR; 3.50 ;1229882;9;9;23;central
+Dove Wallet; 3.40 ;1084610;28;162;26;central
+BBX; 3.40 ;189309298;18;19;131;central
+TradeOgre; 3.40 ;739201;65;69;23;central
+YoBit; 3.40 ;18735;132;460;26;central
+BTSE; 3.40 ;43987815;20;26;87;central
+Koinim; 3.40 ;1084817;7;6;20;central
+Bitsten; 3.40 ;1359826;17;22;18;central
+Satang Pro; 3.40 ;1273383;27;26;14;central
+Bitget; 3.40 ;1032809983;19;37;227;central
+Bitex.la; 3.40 ;1361961;2;1;13;central
+LATOKEN; 3.30 ;8517918;146;256;107;central
+HBTC; 3.30 ;9949715042;111;161;213;central
+C2CX; 3.30 ;43364111;18;37;111;central
+Bitribe; 3.30 ;6701338384;35;57;139;central
+Bithumb Singapore; 3.30 ;83025;5;5;6;central
+Waves Exchange; 3.30 ;9964905;14;45;63;central
+BitZ; 3.30 ;8601557136;98;189;137;central
+qTrade; 3.30 ;678884;21;20;15;central
+Braziliex; 3.30 ;738604;18;27;12;central
+COSS; 3.30 ;10301875;14;14;12;central
+digitalexchange.id; 3.20 ;389247;26;26;18;central
+Mercatox; 3.20 ;27340111;238;417;16;central
+BTC-exchange; 3.20 ;45801;6;5;23;central
+BTC Trade UA; 3.20 ;606011;14;14;13;central
+Mexo Exchange; 3.20 ;8485511649;30;47;194;central
+Changelly PRO; 3.20 ;4280880150;29;83;239;central
+SouthXchange; 3.20 ;195728;88;163;30;central
+VINEX Network; 3.20 ;771629;31;53;10;central
+Paymium; 3.20 ;988342;2;1;6;central
+CoinHe; 3.20 ;41216045;15;24;109;central
+CoinFalcon; 3.20 ;232874;12;15;23;central
+DragonEX; 3.20 ;634946319;106;114;97;central
+ATAIX; 3.20 ;33466571;14;29;62;central
+Triv Pro; 3.10 ;79655482;12;11;168;central
+Omgfin; 3.10 ;1066261122;47;145;461;central
+Bidesk; 3.10 ;8399813155;40;70;180;central
+NAGAX; 3.10 ;114751;9;19;48;central
+iCE3; 3.10 ;463719;3;2;7;central
+BiONE; 3.10 ;2490977812;125;199;147;central
+BITEXBOOK; 3.10 ;113586;22;71;24;central
+Tokenomy; 3.00 ;745238;25;29;4;central
+Graviex; 3.00 ;151152;126;201;10;central
+Sistemkoin; 3.00 ;940295022;136;186;34;central
+LakeBTC; 3.00 ;14;12;12;51;central
+Tidex; 2.90 ;4644365;20;30;21;central
+ZG.com; 2.90 ;8217420412;36;48;80;central
+Coingi; 2.90 ;8921;4;4;13;central
+BitClude; 2.90 ;93121;4;3;10;central
+Chiliz; 2.80 ;22834959;15;14;21;central
+BitAsset; 2.80 ;1835590824;66;124;123;central
+StakeCube; 2.80 ;42066;25;48;9;central
+CITEX; 2.80 ;7329540055;80;152;49;central
+CRXzone; 2.80 ;27526;4;4;21;central
+SatoExchange; 2.70 ;128895;30;54;2;central
+Bitsdaq; 2.70 ;62820628;35;61;146;central
+Polyx; 2.70 ;3238769;9;17;3;central
+Artis Turba; 2.60 ;39897;11;29;4;central
+ABCC; 2.60 ;12845333;5;4;12;central
+HCoin; 2.60 ;481725713;12;11;110;central
+Txbit; 2.60 ;36016;31;37;3;central
+CoinsBank; 2.60 ;267511364;5;6;31;central
+WBF Exchange; 2.60 ;8720875669;54;82;53;central
+RuDEX; 2.60 ;10963;10;21;11;central
+Simex; 2.60 ;13116494;15;27;7;central
+Namebase; 2.60 ;3314;2;1;3;central
+EXX; 2.50 ;1261148611;35;55;30;central
+Ecxx; 2.50 ;2434132496;8;18;144;central
+BiKi; 2.50 ;1104465723;83;185;55;central
+Bgogo; 2.40 ;5537718;19;32;3;central
+AidosMarket; 2.40 ;6862;2;1;5;central
+C-Patex; 2.40 ;10793;25;32;2;central
+Xcalibra; 2.40 ;3414;5;8;6;central
+RightBTC; 2.30 ;6357606494;26;58;79;central
+Bleutrade; 2.20 ;26411;7;9;6;central
+FreiExchange; 2.20 ;51459;35;35;7;central
+BITStorage; 2.20 ;5080212;16;23;10;central
+SecondBTC; 2.10 ;8625;5;5;40;central
+BitRabbit; 2.10 ;26092;26;36;1;central
+LocalTrade; 2.00 ;364555123;16;35;55;central
+Lukki Exchange; 2.00 ;19596745;15;25;1;central
+FT Exchange; 2.00 ;60;4;3;123;central
+LOEx; 1.90 ;446067771;23;23;2;central
+Kryptono; 1.90 ;56243956;19;35;3;central
+Exnomy; 1.80 ;466003;13;15;1;central
+OTCBTC; 1.60 ;713;2;1;1;central
+Hubi; 0.10 ;831727;14;30;N/A;central
+Bittylicious;;304563;21;33;N/A;central
+Bitonic;;4874462;2;1;N/A;central
+LiteBit.eu;;19834704;53;54;N/A;central
+CoinCorner;;599864;3;2;N/A;central
+ISX;;193;2;2;3;central
+Cryptomate;;2197;22;22;N/A;central
+Heat Wallet;;13;2;1;N/A;central
+RippleFox;;412064;6;7;N/A;central
+Gatehub;;633916;5;4;N/A;central
+Ripple China;;1693;2;1;N/A;central
+Buda;;6752169;8;12;N/A;central
+Altcoin Trader;;8103386;24;23;N/A;central
+Bitstamp (Ripple Gateway);;192567;3;2;49;central
+Bits Blockchain;;7854878;4;3;N/A;central
+Tidebit;;3101143;8;8;N/A;central
+InfinityCoin Exchange;;373;2;1;N/A;central
+TOPBTC;;664166907;36;41;N/A;central
+Vebitcoin;;63783042;19;20;N/A;central
+Bithesap;;15321611;3;2;N/A;central
+IDCM;;1554573470;22;80;N/A;central
+Cashierest;;9544627;28;31;N/A;central
+CryptalDash;;0;10;17;N/A;central
+YunEx;;24615773;21;26;N/A;central
+Xena Exchange;;4353265;3;7;N/A;central
+EtherFlyer;;24911470046;72;72;N/A;central
+CBX;;296245576;18;28;N/A;central
+Oasis Exchange;;306472304;17;17;N/A;central
+BankCEX;;21026414;22;50;1;central
+Einax;;77062;3;2;N/A;central
+UPEX;;2651996722;37;48;257;central
+BQT;;2714458;14;34;N/A;central
+BitoPro;;35667345;14;23;N/A;central
+Emirex;;156404696;51;99;N/A;central
+VCC Exchange;;8998279322;110;301;N/A;central
+Hydax Exchange;;8879570992;45;83;201;central
+Crypterum;;551685;8;19;44;central
+Bitay;;188357703;45;93;N/A;central
+VALR;;15698858;53;87;N/A;central
+Huobi Thailand;;501;16;22;142;central
+Biconomy;;999722548;5;4;37;central
+Hotcoin Global;;1275347114;54;67;142;central
+Phemex;;165936064;14;18;N/A;central
+FarhadMarket;;323354713;10;11;141;central
+GokuMarket;;7461992;27;49;N/A;central
+CoinCasso;;1191657;13;15;N/A;central
+CrossTower;;838987;8;12;192;central
+Azbit;;4838540;15;21;3;central
+Xtheta Global;;8559179353;41;70;174;central
+LongBit;;529786814;25;43;117;central
+SINEGY Marketplace;;14863;3;2;10;central
+BSCswap;;10351;19;21;N/A;central
+Dsdaq;;9296115898;48;60;195;central
+FTX US;;36327220;9;17;N/A;central
+ACDX;;189231;4;4;N/A;central
+JulSwap;;253627;6;8;N/A;central
+Serum Swap;;807819;9;18;166;central
+BEPSwap;;8881913;13;12;N/A;central
