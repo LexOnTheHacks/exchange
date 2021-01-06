@@ -1,47 +1,48 @@
-name; volume ; markets ;function;launched;type
-Uniswap (V2);1136412639;1333;swap;01.11.2018;decentral
-Sushiswap;542766794;91;swap;01.09.2020;decentral
-Curve Finance;149361931;18;swap;01.01.2020;decentral
-1inch Exchange;125224983;610;aggregator;01.05.2020;decentral
-0x Protocol;114068080;269;swap;;decentral
-Balancer;104697165;422;swap;;decentral
-Tokenlon;93789996;75;swap;01.07.2019;decentral
-Venus;84984174;13;swap;01.11.2020;decentral
-Synthetix Exchange;84669632;39;swap;01.12.2018;decentral
-dYdX;56231213;4;orderbook;01.04.2019;decentral
-BurgerSwap;38648617;74;swap;;decentral
-PancakeSwap;35091811;64;swap;01.09.2020;decentral
-Compound;32594501;9;swap;01.05.2019;decentral
-Kyber Network;32351934;82;swap;01.02.2018;decentral
-DODO;23682960;11;swap;01.09.2020;decentral
-JustSwap;21040865;28;swap;01.08.2020;decentral
-Serum DEX;15321965;37;orderbook;01.08.2020;decentral
-Bancor Network;7523041;93;swap;01.01.2017;decentral
-Radar Relay;5987084;22;swap;01.08.2017;decentral
-Bisq;5015728;19;orderbook;01.12.2020;decentral
-Nash Exchange;4943744;18;orderbook;01.09.2019;decentral
-Bamboo Relay;4450238;68;orderbook;01.01.2018;decentral
-Gnosis Protocol;2779836;48;swap;01.04.2020;decentral
-Mooniswap;1211542;103;swap;01.08.2020;decentral
-Oasis;999817;6;orderbook;01.02.2017;decentral
-Binance DEX;804309;92;orderbook;01.02.2019;decentral
-Cybex DEX;652861;7;orderbook;;decentral
-ViteX;638307;63;orderbook;01.07.2019;decentral
-Anyswap;547675;22;swap;01.07.2020;decentral
-DeversiFi;458792;20;orderbook;01.06.2020;decentral
-PoloniDEX;283118;34;orderbook;01.12.2018;decentral
-IDEX;21333;42;orderbook;01.10.2016;decentral
-Switcheo Network;182744;66;orderbook;01.03.2018;decentral
-Newdex;137579;39;orderbook;01.08.2018;decentral
-DDEX;123087;3;orderbook;01.12.2017;decentral
-TronTrade;120763;25;orderbook;;decentral
-SashimiSwap;71875;9;swap;01.09.2020;decentral
-Stellarterm;65941;23;orderbook;01.07.2017;decentral
-TokenSets;37182;15;swap;;decentral
-TomoDEX;33831;24;orderbook;01.05.2020;decentral
-dex.blue;24264;12;orderbook;01.09.2019;decentral
-Birake Network;17298;43;orderbook;01.12.2018;decentral
-Allbit;10179;24;orderbook;01.03.2018;decentral
-Loopring Exchange;3209;28;orderbook;01.02.2020;decentral
-Uniswap;122;51;swap;01.11.2018;decentral
-Nexus Mutual;101;1;orderbook;;decentral
+name, volume , markets ,function,launched,type
+Uniswap (V2),1136412639,1333,swap,01.11.2018,decentral
+Sushiswap,542766794,91,swap,01.09.2020,decentral
+Curve Finance,149361931,18,swap,01.01.2020,decentral
+1inch Exchange,125224983,610,aggregator,01.05.2020,decentral
+0x Protocol,114068080,269,swap,,decentral
+Balancer,104697165,422,swap,,decentral
+Tokenlon,93789996,75,swap,01.07.2019,decentral
+Venus,84984174,13,swap,01.11.2020,decentral
+Synthetix Exchange,84669632,39,swap,01.12.2018,decentral
+dYdX,56231213,4,orderbook,01.04.2019,decentral
+BurgerSwap,38648617,74,swap,,decentral
+PancakeSwap,35091811,64,swap,01.09.2020,decentral
+Compound,32594501,9,swap,01.05.2019,decentral
+Kyber Network,32351934,82,swap,01.02.2018,decentral
+DODO,23682960,11,swap,01.09.2020,decentral
+JustSwap,21040865,28,swap,01.08.2020,decentral
+Serum DEX,15321965,37,orderbook,01.08.2020,decentral
+Bancor Network,7523041,93,swap,01.01.2017,decentral
+Radar Relay,5987084,22,swap,01.08.2017,decentral
+Bisq,5015728,19,orderbook,01.12.2020,decentral
+Nash Exchange,4943744,18,orderbook,01.09.2019,decentral
+Bamboo Relay,4450238,68,orderbook,01.01.2018,decentral
+Gnosis Protocol,2779836,48,swap,01.04.2020,decentral
+Mooniswap,1211542,103,swap,01.08.2020,decentral
+Oasis,999817,6,orderbook,01.02.2017,decentral
+Binance DEX,804309,92,orderbook,01.02.2019,decentral
+Cybex DEX,652861,7,orderbook,,decentral
+ViteX,638307,63,orderbook,01.07.2019,decentral
+Anyswap,547675,22,swap,01.07.2020,decentral
+DeversiFi,458792,20,orderbook,01.06.2020,decentral
+PoloniDEX,283118,34,orderbook,01.12.2018,decentral
+IDEX,21333,42,orderbook,01.10.2016,decentral
+Switcheo Network,182744,66,orderbook,01.03.2018,decentral
+Newdex,137579,39,orderbook,01.08.2018,decentral
+DDEX,123087,3,orderbook,01.12.2017,decentral
+TronTrade,120763,25,orderbook,,decentral
+SashimiSwap,71875,9,swap,01.09.2020,decentral
+Stellarterm,65941,23,orderbook,01.07.2017,decentral
+TokenSets,37182,15,swap,,decentral
+TomoDEX,33831,24,orderbook,01.05.2020,decentral
+dex.blue,24264,12,orderbook,01.09.2019,decentral
+Birake Network,17298,43,orderbook,01.12.2018,decentral
+Allbit,10179,24,orderbook,01.03.2018,decentral
+Loopring Exchange,3209,28,orderbook,01.02.2020,decentral
+Uniswap,122,51,swap,01.11.2018,decentral
+Nexus Mutual,101,1,orderbook,,decentral
+
